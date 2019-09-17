@@ -2,3 +2,6 @@
 - name: Install restic
   package:
     name: restic
+- name: Install rclone
+  package:
+    name: rclone
